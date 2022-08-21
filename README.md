@@ -1,2 +1,2 @@
-# vers-one.github.io
-GitHub Pages site
+# Projects
+[EpubReader](EpubReader/) — .NET library for reading EPUB files
